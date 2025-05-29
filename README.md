@@ -1,2 +1,3 @@
 # Angular-lab
-TybeScribt &amp; Angular Labs 
+This repo is dedicated to my lab solutions for TypeScript & Angular course at the Information Technology Institute (ITI)
+
